@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Dirtyline 36Daysoftype 2022 Reg";
+    src:url("../fonts/Dirtyline.otf") format("otf");
+    font-style: normal;
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Random Grotesque Standard Bold";
+    src:url("../fonts/RG-StandardBold.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 700;
+  }
+  @font-face {
+    font-family: "Random Grotesque Standard Medium";
+    src:url("../fonts/RG-StandardMedium.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 500;
+  }
