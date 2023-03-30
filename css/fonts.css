@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Nokwy';
+  src:url("../fonts/Nokwy.otf") format("otf");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Random Grotesque Standard Bold';
+  src:url("../fonts/RG-StandardBold.ttf") format("ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Random Grotesque Standard Medium';
+  src:url("../fonts/RG-StandardMedium.ttf") format("ttf");
+  font-style: normal;
+  font-weight: 500;
+  }
